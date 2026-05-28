@@ -1,8 +1,5 @@
-# Google-PlayStore-Data-Analysis
-A data analysis project on Google Play Store dataset using Python, focusing on data cleaning, visualization, and insights generation.
 
 ## 📊 Google Play Store Analysis – Complete Project
-
 ## 🎯 Objective
 
 This project analyzes Google Play Store data to understand app performance based on installs, ratings, size, revenue, and category trends. The main goal is to extract meaningful insights using data visualization techniques.
@@ -10,7 +7,6 @@ This project analyzes Google Play Store data to understand app performance based
 ---
 
 ## 📂 Project Structure
-
 * **Task-1:** Top app categories based on installs and ratings (Bar Chart)
 * **Task-2:** Category-wise distribution analysis (Visualization)
 * **Task-3:** Free vs Paid apps comparison (Dual-Axis Chart)
@@ -21,7 +17,6 @@ This project analyzes Google Play Store data to understand app performance based
 ---
 
 ## 🛠 Tools & Libraries Used
-
 * Python
 * Pandas
 * NumPy
@@ -30,7 +25,6 @@ This project analyzes Google Play Store data to understand app performance based
 ---
 
 ## ⚙️ Workflow
-
 * Data loading and inspection
 * Handling missing values and duplicates
 * Data cleaning and type conversion
@@ -42,7 +36,6 @@ This project analyzes Google Play Store data to understand app performance based
 ---
 
 ## 📊 Key Insights
-
 * Communication and Social apps show high install counts
 * Free apps have higher installs, while paid apps generate more revenue
 * Medium-sized apps perform better than very large apps in many cases
@@ -52,9 +45,7 @@ This project analyzes Google Play Store data to understand app performance based
 ---
 
 ## 📁 Output Folder
-
 All final visualizations are stored in the `outputs/` folder:
-
 * task1.png
 * task2.png
 * task3.png
@@ -65,7 +56,6 @@ All final visualizations are stored in the `outputs/` folder:
 ---
 
 ##  Conclusion
-
 This project provides a clear understanding of how different factors such as category, size, rating, and pricing influence app success in the Google Play Store. Visual analytics helps in identifying trends and making data-driven decisions.
 
 ---
