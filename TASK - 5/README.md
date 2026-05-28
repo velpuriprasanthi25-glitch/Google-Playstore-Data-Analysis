@@ -1,6 +1,4 @@
-
-
-# Google Play Store Analysis - Task 5
+## Google Play Store Analysis - Task 5
 
 ## Objective
 
@@ -37,13 +35,18 @@ README.md
 
 ## Steps Performed
 
-Loaded the dataset
-Cleaned missing and duplicate values
-Converted size, rating, installs, and reviews into numeric format
-Applied all required filters
-Selected required app categories
-Created bubble chart using Matplotlib
-Mapped app size to X-axis, rating to Y-axis, installs to bubble size
+* Loaded the dataset
+* Checked and handled missing values
+* Removed duplicate records
+* Converted columns (Size, Rating, Installs, Reviews) into numeric format
+* Applied all required filters
+* Selected required app categories for analysis
+* Prepared cleaned dataset for visualization
+* Created bubble chart using Matplotlib
+* Set App Size on X-axis
+* Set Average Rating on Y-axis
+* Used Installs as bubble size
+* Interpreted patterns from visualization
 
 ---
 
@@ -51,12 +54,17 @@ Mapped app size to X-axis, rating to Y-axis, installs to bubble size
 
 A bubble chart showing:
 
-App Size vs Average Rating
-Bubble size representing Installs
-Filtered app categories comparison
+* App Size vs Average Rating
+* Bubble size representing Installs
+* Comparison across selected app categories
 
 ---
 
 ## Author
 
 Prasanthi Velpuri
+
+
+
+
+
